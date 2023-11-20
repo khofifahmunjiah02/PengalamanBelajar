@@ -10,3 +10,5 @@ Belajar Dasar Git dengan Github. (Progres 39%)
   * Belajar pengaturan visibilitas yang terdiri dari 2 yaitu private dan public.
   * Belajar beberapa inisialisai repository.
   * Belajar dasar git seperti Commit, Checkout, Reset, dan Revert.
+    
+Belajar Github dengan pak Sandhika Galih
